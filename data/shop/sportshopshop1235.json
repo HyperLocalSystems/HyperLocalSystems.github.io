@@ -1,0 +1,29 @@
+{
+  "shop_details": {
+    "shop_id": 1,
+    "shop_name": "The sports shop",
+    "shop_address": "shop1 address",
+    "latlng": "10.34534,35.3454",
+    "shop_phone": "shop1 phone"
+  },
+  "items": [
+    {
+      "id": 1,
+      "name": "bat",
+      "price": 100,
+      "unit": "kg"
+    },
+    {
+      "id": 2,
+      "name": "ball",
+      "price": 200,
+      "unit": "kg"
+    },
+    {
+      "id": 3,
+      "name": "net",
+      "price": 300,
+      "unit": "kg"
+    }
+  ]
+}
