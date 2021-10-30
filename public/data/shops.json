@@ -1,0 +1,26 @@
+[
+  {
+    "id": "fntsticshop1234",
+    "name": "Fantastic Shop",
+    "description": "shop for everything",
+    "address": "Tokyo junction, Tokyo",
+    "latlng": "35.57772,139.73",
+    "phone": "819876543210"
+  },
+  {
+    "id": "sportshopshop1235",
+    "name": "Sports Shop",
+    "description": "shop for sports goods",
+    "address": "Tokyo junction, Tokyo",
+    "latlng": "35.6762,139.6503",
+    "phone": "819876543210"
+  },
+  {
+    "id": "ministop1234",
+    "name": "Ministop",
+    "description": "ministop at heiwajima",
+    "address": "heiwajima, Tokyo",
+    "latlng": "35.5785797,139.7318877",
+    "phone": "819876543210"
+  }
+]

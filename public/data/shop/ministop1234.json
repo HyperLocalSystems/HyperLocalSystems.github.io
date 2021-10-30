@@ -1,0 +1,29 @@
+{
+  "shop_details": {
+    "shop_id": "ministop1234",
+    "shop_name": "Ministop",
+    "shop_address": "ministop at heiwajima",
+    "latlng": "35.5785797,139.7318877",
+    "shop_phone": "shop1 phone"
+  },
+  "items": [
+    {
+      "id": 1,
+      "name": "rice",
+      "price": 100,
+      "unit": "kg"
+    },
+    {
+      "id": 2,
+      "name": "sugar",
+      "price": 200,
+      "unit": "kg"
+    },
+    {
+      "id": 3,
+      "name": "tomato",
+      "price": 300,
+      "unit": "kg"
+    }
+  ]
+}
